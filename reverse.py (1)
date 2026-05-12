@@ -1,0 +1,4 @@
+text = "Python"
+print(text[::-1])
+text1="programming"
+print(text1[::2])# jumping character
